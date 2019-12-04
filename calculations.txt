@@ -1,0 +1,5 @@
+!#/bin/bash
+#this is for demo
+echo (($a+$b))
+echo "the sum is : "
+
