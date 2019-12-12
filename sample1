@@ -1,0 +1,5 @@
+!#/bin/bash
+echo "enter the user name : "
+read uname
+echo "entered name is : $uname " 
+
