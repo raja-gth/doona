@@ -2,4 +2,5 @@
 echo "enter the user name : "
 read uname
 echo "entered name is : $uname " 
+read passwd
 
