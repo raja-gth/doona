@@ -2,4 +2,4 @@
 echo "enter the first name :$1 "
 echo "enter the lastname name :$2 "
 echo "number of inputs is: $# "
-
+echo "how r u"
